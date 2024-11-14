@@ -83,23 +83,28 @@
 
 Окно встречающее пользователя 
 
-![Окно встречающее пользователя]()
+![Окно встречающее пользователя](![2 - B - On Boarding](https://github.com/user-attachments/assets/f4da54e8-9d73-4eed-a6ff-ea0d27ae7d0e)
+)
 
 Окно регистрации
 
-![Окно регистрации]()
+![Окно регистрации](![3 0 - A - Create Account](https://github.com/user-attachments/assets/7c083f0e-3f4f-4bea-b7ce-ede02499d73f)
+)
 
 Окно логина
 
-![Окно логина]()
+![Окно логина](![3 0 - A - Login](https://github.com/user-attachments/assets/8fa567ad-a2ce-4c23-a778-2b7cc0b48286)
+)
 
 Главное окно приложения
 
-![Окно шопинга]()
+![Окно главное](![4- A - Home](https://github.com/user-attachments/assets/3c1a098a-f809-43d4-89d8-40b99c9eaeaf)
+)
 
 Окно товара
 
-![Окно товара]()
+![Окно транзакции](![9 3 0 - A - Transaction](https://github.com/user-attachments/assets/97a42636-7acb-4aa3-8691-01a284e02c75)
+)
 
 <a name="user_specifications"/>
 
